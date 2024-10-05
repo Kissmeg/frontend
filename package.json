@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "private": true,
-  "homepage": "https://Kissmeg.github.io/test",
+  "homepage": "https://Kissmeg.github.io/frontend",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
